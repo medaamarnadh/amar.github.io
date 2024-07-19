@@ -239,6 +239,7 @@ DEPENDENCIES
   mini_racer
   unicode_utils
   webrick
+  faraday-retry
 
 BUNDLED WITH
    2.5.7
